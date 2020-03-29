@@ -13,10 +13,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - :Because this can be customized easly and I will accept as many PRs as I need to make this a great package
 
 ## What does it look like by default?
-  Closed View:
+  ##Closed View:
   <img width="350px" src="https://github.com/kevin192291/ngx-miniSideBar/raw/master/closed%20Sidebar.PNG">
   
-  Opened View:
+  ##Opened View:
   <img width="350px" src="https://github.com/kevin192291/ngx-miniSideBar/raw/master/opened%20Sidebar.PNG">
 ## Requirements
 - :[angular router - v9.x](https://www.npmjs.com/package/@angular/router)
