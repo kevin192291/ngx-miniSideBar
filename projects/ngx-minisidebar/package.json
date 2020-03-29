@@ -1,11 +1,14 @@
 {
   "name": "ngx-minisidebar",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "author": {
-    "email": "kevin903@live.com",
+    "email": "Kevin903@live.com",
     "name": "Kevin Cantrell",
     "url": "https://github.com/kevin192291"
   },
+  "homepage": "https://github.com/kevin192291/ngx-miniSideBar",
+  "license" : "MIT",
+
   "peerDependencies": {
     "@angular/common": "^9.0.7",
     "@angular/core": "^9.0.7",
