@@ -13,7 +13,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - :Because this can be customized easly and I will accept as many PRs as I need to make this a great package
 
 ## What does it look like by default?
-  Sidebar Closed             |  Sidebar Open
+  Sidebar Closed 📕        |  Sidebar Open 📖
 :-------------------------:|:-------------------------:
 <img src="https://github.com/kevin192291/ngx-miniSideBar/raw/master/closed%20Sidebar.PNG"> | <img src="https://github.com/kevin192291/ngx-miniSideBar/raw/master/opened%20Sidebar.PNG">
 - I the CSS can be overriden with ease, This is one of the big points I will address next!
