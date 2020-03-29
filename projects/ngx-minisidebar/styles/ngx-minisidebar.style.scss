@@ -19,6 +19,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  height: 100%;
 }
 
 .logo {
@@ -109,7 +110,6 @@
   .navbar {
     top: 0;
     width: 5rem;
-    height: 100vh;
   }
 
   .navbar-open {
