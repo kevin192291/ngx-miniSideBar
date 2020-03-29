@@ -12,6 +12,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - :Because I plan to maintain as small of a code footprint as possible.
 - :Because this can be customized easly and I will accept as many PRs as I need to make this a great package
 
+## What does it look like by default?
+  Sidebar Closed 📕        |  Sidebar Open 📖
+:-------------------------:|:-------------------------:
+<img src="https://github.com/kevin192291/ngx-miniSideBar/raw/master/closed%20Sidebar.PNG"> | <img src="https://github.com/kevin192291/ngx-miniSideBar/raw/master/opened%20Sidebar.PNG">
+- I the CSS can be overriden with ease, This is one of the big points I will address next!
+- There is much work to be done on the style to make it clean and concise. Feel free to start a new PR!
 ## Requirements
 - :[angular router - v9.x](https://www.npmjs.com/package/@angular/router)
 - :[tslib - ^1.10.0](https://www.npmjs.com/package/tslib),
@@ -47,6 +53,6 @@ Add the style to your style.scss
 Add `<ngx-minisidebar></ngx-minisidebar>` in your Html
 
 All Set!
-Also check 🔎: [stackblitz](https://stackblitz.com/edit/ngx-minisidebar) for a working example
+Also check 🔎 [stackblitz](https://stackblitz.com/edit/ngx-minisidebar) for a working example
 ## 💣 Further help
 Post in the Issues, and I am happy to help and if you have fixes I would be more than happy to pull them in!
