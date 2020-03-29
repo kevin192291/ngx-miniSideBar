@@ -22,7 +22,8 @@ run:
 `npm install --save ngx-minisidebar`
 
 Include the module:
-`import { NgModule } from '@angular/core';
+```typescript
+import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { AppComponent } from './app.component';
 import { RouterModule, Routes } from '@angular/router'; // <-- required RouterModule
@@ -37,7 +38,8 @@ import { NgxMinisidebarModule } from 'ngx-minisidebar'; // <-- Add Ngx mini Side
   declarations: [ AppComponent ],
   bootstrap:    [ AppComponent ]
 })
-export class AppModule { }`
+export class AppModule { }
+```
 
 Add the style to your style.scss
 `@import '~ngx-minisidebar/styles/ngx-minisidebar.style.scss';`
