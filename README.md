@@ -12,6 +12,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - :Because I plan to maintain as small of a code footprint as possible.
 - :Because this can be customized easly and I will accept as many PRs as I need to make this a great package
 
+## What does it look like by default?
+<p align="center">
+  Closed View:
+  <img height="256px" width="256px" style="text-align: center;" src="https://github.com/kevin192291/ngx-miniSideBar/raw/master/closed%20Sidebar.PNG">
+  
+  Opened View:
+  <img height="256px" width="256px" style="text-align: center;" src="https://github.com/kevin192291/ngx-miniSideBar/raw/master/opened%20Sidebar.PNG">
+</p>
 ## Requirements
 - :[angular router - v9.x](https://www.npmjs.com/package/@angular/router)
 - :[tslib - ^1.10.0](https://www.npmjs.com/package/tslib),
