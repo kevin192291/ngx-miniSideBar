@@ -16,6 +16,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   Sidebar Closed             |  Sidebar Open
 :-------------------------:|:-------------------------:
 <img src="https://github.com/kevin192291/ngx-miniSideBar/raw/master/closed%20Sidebar.PNG"> | <img src="https://github.com/kevin192291/ngx-miniSideBar/raw/master/opened%20Sidebar.PNG">
+- I the CSS can be overriden with ease, This is one of the big points I will address next!
+- There is much work to be done on the style to make it clean and concise. Feel free to start a new PR!
 ## Requirements
 - :[angular router - v9.x](https://www.npmjs.com/package/@angular/router)
 - :[tslib - ^1.10.0](https://www.npmjs.com/package/tslib),
