@@ -53,6 +53,6 @@ Add the style to your style.scss
 Add `<ngx-minisidebar></ngx-minisidebar>` in your Html
 
 All Set!
-Also check 🔎: [stackblitz](https://stackblitz.com/edit/ngx-minisidebar) for a working example
+Also check 🔎 [stackblitz](https://stackblitz.com/edit/ngx-minisidebar) for a working example
 ## 💣 Further help
 Post in the Issues, and I am happy to help and if you have fixes I would be more than happy to pull them in!
