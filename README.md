@@ -17,7 +17,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   <img width="350px" src="https://github.com/kevin192291/ngx-miniSideBar/raw/master/closed%20Sidebar.PNG">
   
   Opened View:
-  <imgwidth="350px" src="https://github.com/kevin192291/ngx-miniSideBar/raw/master/opened%20Sidebar.PNG">
+  <img width="350px" src="https://github.com/kevin192291/ngx-miniSideBar/raw/master/opened%20Sidebar.PNG">
 ## Requirements
 - :[angular router - v9.x](https://www.npmjs.com/package/@angular/router)
 - :[tslib - ^1.10.0](https://www.npmjs.com/package/tslib),
