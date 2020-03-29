@@ -1,27 +1,52 @@
-# NgxMinisidebar
+<p align="center">
+  <img height="256px" width="256px" style="text-align: center;"
+  src="https://github.com/kevin192291/ngx-miniSideBar/raw/master/logo.png">
+</p>
+
+# NgxMinisidebar - Open Source Library for Angular Web Apps to provide a nice collapsable sidebar that is small and customizable
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
 
-## Development server
+## ❓ Why use ngx-miniSidebar
+- :Because Material design doesn't yet provide a mini sidebar
+- :Because I plan to maintain as small of a code footprint as possible.
+- :Because this can be customized easly and I will accept as many PRs as I need to make this a great package
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Requirements
+- :[angular router - v9.x](https://www.npmjs.com/package/@angular/router)
+- :[tslib - ^1.10.0](https://www.npmjs.com/package/tslib),
 
-## Code scaffolding
+## 🔨 Installation
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+run:
+`npm install --save ngx-minisidebar`
 
-## Build
+Include the module:
+`
+import { NgModule } from '@angular/core';
+import { BrowserModule } from '@angular/platform-browser';
+import { AppComponent } from './app.component';
+import { RouterModule, Routes } from '@angular/router'; // <-- required RouterModule
+import { NgxMinisidebarModule } from 'ngx-minisidebar'; // <-- Add Ngx mini Sidebar
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+@NgModule({
+  imports: [
+    BrowserModule,
+    NgxMinisidebarModule, // <-- Add Ngx mini Sidebar
+    RouterModule.forRoot([]) // <-- required RouterModule
+  ],
+  declarations: [ AppComponent ],
+  bootstrap:    [ AppComponent ]
+})
+export class AppModule { }
+`
 
-## Running unit tests
+Add the style to your style.scss
+`@import '~ngx-minisidebar/styles/ngx-minisidebar.style.scss';`
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Add `<ngx-minisidebar></ngx-minisidebar>` in your Html
 
-## Running end-to-end tests
+All Set!
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## 💣 Further help
+Post in the Issues, and I am happy to help and if you have fixes I would be more than happy to pull them in!
