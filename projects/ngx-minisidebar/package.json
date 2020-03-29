@@ -1,0 +1,14 @@
+{
+  "name": "ngx-minisidebar",
+  "version": "0.0.7",
+  "author": {
+    "email": "kevin903@live.com",
+    "name": "Kevin Cantrell",
+    "url": "https://github.com/kevin192291"
+  },
+  "peerDependencies": {
+    "@angular/common": "^9.0.7",
+    "@angular/core": "^9.0.7",
+    "tslib": "^1.10.0"
+  }
+}
