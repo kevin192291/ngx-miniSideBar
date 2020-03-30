@@ -6,8 +6,12 @@
     "name": "Kevin Cantrell",
     "url": "https://github.com/kevin192291"
   },
-  "homepage": "https://github.com/kevin192291/ngx-miniSideBar",
-  "license" : "MIT",
+  "repository": {
+    "type" : "git",
+    "url": "https://github.com/kevin192291/ngx-miniSideBar"
+  },
+  "homepage": "https://kevin192291.github.io/ngx-miniSideBar/",
+  "license" : "AGPL-3.0",
 
   "peerDependencies": {
     "@angular/common": "^9.0.7",
