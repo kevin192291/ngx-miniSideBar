@@ -1,6 +1,6 @@
 {
   "name": "ngx-minisidebar",
-  "version": "0.0.13",
+  "version": "0.0.15",
   "author": {
     "email": "Kevin903@live.com",
     "name": "Kevin Cantrell",
@@ -12,6 +12,7 @@
   },
   "homepage": "https://kevin192291.github.io/ngx-miniSideBar/",
   "license" : "AGPL-3.0",
+  "keywords": ["Angular", "UI Components", "Sidebar", "Sidenav", "Drawer", "MiniSidebar", "MiniSideNav"],
 
   "peerDependencies": {
     "@angular/common": "^9.0.7",
