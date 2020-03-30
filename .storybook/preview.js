@@ -1,0 +1,1 @@
+import '!style-loader!css-loader!sass-loader!./../projects/ngx-minisidebar/styles/ngx-minisidebar.style.scss';
