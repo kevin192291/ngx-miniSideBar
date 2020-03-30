@@ -22,7 +22,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - :[angular router - v9.x](https://www.npmjs.com/package/@angular/router)
 - :[tslib - ^1.10.0](https://www.npmjs.com/package/tslib),
 
-## 🔨 Installation
+## 📦 Installation
 
 run:
 `npm install --save ngx-minisidebar`
@@ -54,5 +54,16 @@ Add `<ngx-minisidebar></ngx-minisidebar>` in your Html
 
 All Set!
 Also check 🔎 [stackblitz](https://stackblitz.com/edit/ngx-minisidebar) for a working example
+
+## 🔨 Development
+
+In order to make development easier, I have included [Storybook](https://storybook.js.org/) into the package
+start by:
+- Forking the project
+- Running `npm i`
+- Running `npm run storybook`
+- Make updates as needed in the directory: `projects/ngx-minisidebar`
+- Commit your changes, and do a PR back to here.
+
 ## 💣 Further help
 Post in the Issues, and I am happy to help and if you have fixes I would be more than happy to pull them in!
