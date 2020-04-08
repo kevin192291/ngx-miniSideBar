@@ -18,11 +18,10 @@ storiesOf("ngx-minisidebar", module).add("basic", () => ({
       { path: '', component: NgxMinisidebarComponent }
     ])],
     schemas: [NO_ERRORS_SCHEMA],
-    declarations: [],
+    declarations: [NgxMinisidebarComponent],
     providers: [{ provide: APP_BASE_HREF, useValue: '/' }]
   },
   component: NgxMinisidebarComponent,
-
   props: {
     links: [
       { path: '/', text: 'Home', icon: '🏠' },
