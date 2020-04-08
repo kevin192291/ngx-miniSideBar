@@ -5,7 +5,7 @@
 
 # NgxMinisidebar - Open Source Library for Angular Web Apps to provide a nice collapsable sidebar that is small and customizable
 
-This project is an easy to use Library based from (Jeff Delaney)[https://fireship.io/] awesome (video)[https://www.youtube.com/watch?v=biOMz4puGt8]
+This project is an easy to use Library based from [Jeff Delaney](https://fireship.io/) awesome [video](https://www.youtube.com/watch?v=biOMz4puGt8)
 
 ## ❓ Why use ngx-miniSidebar
 - :Because Material design doesn't yet provide a mini sidebar
